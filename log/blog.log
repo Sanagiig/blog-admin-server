@@ -1,0 +1,6 @@
+time="2023-02-07T17:33:37+08:00" level=error msg="request Content-Type isn't multipart/form-data" Method=POST Path="/api/upload/upload/:type" Remote="::1"
+time="2023-02-07T17:36:07+08:00" level=error msg="request Content-Type isn't multipart/form-data" Method=POST Path="/api/upload/upload/:type" Remote="::1"
+time="2023-02-07T17:38:38+08:00" level=error msg="open G:\\tmp/profile/test222: The system cannot find the path specified." Method=POST Path="/api/upload/upload/:type" Remote="::1"
+time="2023-02-07T17:39:40+08:00" level=error msg="open G:/tmp/profile/test222: The system cannot find the path specified." Method=POST Path="/api/upload/file/:type" Remote="::1"
+time="2023-02-07T17:53:12+08:00" level=error msg="open G:/tmp/profile/test222: The system cannot find the path specified." Method=POST Path="/api/upload/file/:type" Remote="::1"
+time="2023-02-07T17:53:30+08:00" level=error msg="open G:/tmp/profile/test222: The system cannot find the path specified." Method=POST Path="/api/upload/file/:type" Remote="::1"
